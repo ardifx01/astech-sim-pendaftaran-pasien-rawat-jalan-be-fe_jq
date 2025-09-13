@@ -155,7 +155,3 @@ Contoh POST:
 -   Port bentrok: ubah `APP_URL` atau jalankan `php artisan serve --port=8001`.
 
 ---
-
-## Lisensi
-
-Proyek ini dirilis di bawah lisensi MIT.

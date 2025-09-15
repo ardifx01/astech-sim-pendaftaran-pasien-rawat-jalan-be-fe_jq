@@ -2,6 +2,10 @@
 
 Aplikasi backend dan frontend untuk pendaftaran pasien rawat jalan dengan fitur manajemen pasien dan kunjungan. Dibangun menggunakan Laravel 12, Yajra DataTables (server-side), Select2, dan Vite. Aplikasi ini dibuat dengan tujuan memenuhi mini project sebagai recruitement untuk PT Alfatih Solusindo (Astech).
 
+##L Link Deploy
+Untuk mempermudah, aplikasi bisa diakses di
+🔗: [https://muammar.web.id/patients]https://muammar.web.id/patients
+
 ### Fitur
 
 -   **Manajemen Pasien**: tambah, edit, hapus, dan listing dengan DataTables.
